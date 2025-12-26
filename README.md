@@ -7,7 +7,7 @@ This repo contains a simulated Douyin local service dataset (restaurant) and a S
 - Shop fulfillment segmentation (GMV × writeoff_rate)
 
 ## Environment
-- macOS
+- Tested on macOS
 - MySQL database: `portfolio_db`
 
 ## Reproducible quick start
@@ -26,4 +26,3 @@ This repo contains a simulated Douyin local service dataset (restaurant) and a S
 
 ## Notes
 - Field definitions strictly follow v1.0 DDL.
-- No Windows/Power BI dependency.
