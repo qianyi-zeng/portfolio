@@ -30,5 +30,9 @@ This repo contains a simulated Douyin local service dataset (restaurant) and a S
    - `p1_sql_warehouse/analysis/SQL11_chain_vs_single_shop_performance.sql`
    - `p1_sql_warehouse/analysis/SQL12_settlement_quality.sql`
 
+## Results snapshot
+- SQL06 Shop fulfillment quadrant (GMV × writeoff_rate): `docs/results/SQL06_shop_fulfillment_quadrant.csv`
+- SQL12 Settlement quality (commission/fee/rebate/settlement): `docs/results/SQL12_settlement_quality.csv`
+
 ## Notes
 - Field definitions strictly follow v1.0 DDL.
