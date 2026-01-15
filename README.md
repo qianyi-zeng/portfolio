@@ -36,6 +36,7 @@ This repo contains a simulated Douyin local service dataset (restaurant) and a S
 
 ### SQL06 — Shop fulfillment quadrant (GMV × writeoff_rate)
 ![SQL06](docs/results/SQL06_shop_fulfillment_quadrant.png)
+
 ### SQL12 — Settlement quality (commission/fee/rebate/settlement)
 ![SQL12](docs/results/SQL12_settlement_quality.png)
 
