@@ -40,5 +40,6 @@ This repo contains a simulated Douyin local service dataset (restaurant) and a S
 ### SQL12 — Settlement quality (commission/fee/rebate/settlement)
 ![SQL12](docs/results/SQL12_settlement_quality.png)
 
+
 ## Notes
 - Field definitions strictly follow v1.0 DDL.
