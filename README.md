@@ -1,5 +1,7 @@
 # Douyin Local Service (Restaurant) Portfolio
 
+- Case brief: docs/P1_case_brief.md
+
 This repo contains a simulated Douyin local service dataset (restaurant) and a SQL analysis layer focused on:
 - GMV scale and fulfillment quality (writeoff)
 - Refund structure
