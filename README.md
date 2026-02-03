@@ -1,4 +1,4 @@
-# 抖音本地生活（到店）作品集
+# 抖音本地生活（餐饮）仿真数仓与经营分析（P1）
 
 - Case brief: docs/P1_case_brief.md
 
